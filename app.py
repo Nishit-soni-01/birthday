@@ -3,7 +3,6 @@ import streamlit.components.v1 as components
 from PIL import Image
 import os
 
-# --- CONFIGURATION ---
 st.set_page_config(page_title="Happy Birthday!", page_icon="🎂", layout="wide")
 
 # --- CUSTOM CSS ---
