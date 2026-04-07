@@ -5,7 +5,7 @@ import os
 
 st.set_page_config(page_title="Happy Birthday!", page_icon="🎂", layout="wide")
 
-# --- CUSTOM CSS ---
+
 st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Poppins:wght@300;400;600&display=swap');
