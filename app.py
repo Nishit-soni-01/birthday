@@ -48,7 +48,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# --- SESSION STATE ---
+
 if 'celebrate' not in st.session_state:
     st.session_state.celebrate = False
 
