@@ -52,7 +52,7 @@ st.markdown("""
 if 'celebrate' not in st.session_state:
     st.session_state.celebrate = False
 
-# --- HEADER ---
+
 st.write("<h1 style='text-align: center; color: #ff4b2b;'>💖 A Special Celebration 💖</h1>", unsafe_allow_html=True)
 
 # --- CELEBRATE BUTTON ---
