@@ -63,7 +63,6 @@ with col2:
             st.session_state.celebrate = True
             st.balloons()
 
-# --- CELEBRATION CONTENT ---
 if st.session_state.celebrate:
     # 1. Background Music (Auto-plays on click)
     # Note: Replace URL with a local file path if you have a .mp3 in the folder
