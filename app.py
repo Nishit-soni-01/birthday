@@ -55,7 +55,7 @@ if 'celebrate' not in st.session_state:
 
 st.write("<h1 style='text-align: center; color: #ff4b2b;'>💖 A Special Celebration 💖</h1>", unsafe_allow_html=True)
 
-# --- CELEBRATE BUTTON ---
+
 col1, col2, col3 = st.columns([1,1,1])
 with col2:
     if not st.session_state.celebrate:
