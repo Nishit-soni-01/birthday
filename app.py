@@ -64,7 +64,7 @@ with col2:
             st.balloons()
 
 if st.session_state.celebrate:
-    # 1. Background Music (Auto-plays on click)
+    
     # Note: Replace URL with a local file path if you have a .mp3 in the folder
     music_url = "https://www.bensound.com/bensound-music/bensound-memories.mp3"
     st.markdown(f"""
