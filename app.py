@@ -65,7 +65,7 @@ with col2:
 
 if st.session_state.celebrate:
     
-    # Note: Replace URL with a local file path if you have a .mp3 in the folder
+    
     music_url = "https://www.bensound.com/bensound-music/bensound-memories.mp3"
     st.markdown(f"""
         <audio autoplay loop>
