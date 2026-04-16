@@ -73,7 +73,7 @@ if st.session_state.celebrate:
         </audio>
     """, unsafe_allow_html=True)
 
-    # 2. Lottie Confetti Animation
+    
     components.html("""
         <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
         <div style="display: flex; justify-content: center;">
