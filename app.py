@@ -81,7 +81,7 @@ if st.session_state.celebrate:
         </div>
     """, height=300)
 
-    # 3. Birthday Message
+    
     st.markdown("""
         <div class="birthday-msg">Happy Birthday! 🎉</div>
         <div class="sub-msg">
