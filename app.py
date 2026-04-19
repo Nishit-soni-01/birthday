@@ -94,7 +94,7 @@ if st.session_state.celebrate:
 
     st.markdown("---")
     
-    # 4. PHOTO COLLAGE (8 Local Images)
+    
     st.write("<h2 style='text-align: center; font-family: Dancing Script;'>I selected the top-tier pictures of yours. With each one you looked better, so I chose the best ones. ✨</h2>", unsafe_allow_html=True)
     
     # List of your local filenames
