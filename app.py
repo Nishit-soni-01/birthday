@@ -97,7 +97,6 @@ if st.session_state.celebrate:
     
     st.write("<h2 style='text-align: center; font-family: Dancing Script;'>I selected the top-tier pictures of yours. With each one you looked better, so I chose the best ones. ✨</h2>", unsafe_allow_html=True)
     
-    # List of your local filenames
     photo_files = ["pic1.jpeg", "pic2.jpeg", "pic3.jpeg", "pic4.jpeg", 
                    "pic5.jpeg", "pic6.jpeg", "pic7.jpeg", "pic8.jpeg"]
 
